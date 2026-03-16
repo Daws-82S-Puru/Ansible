@@ -14,4 +14,4 @@
       vars: 
         GREET
       ansible.builtin.debug:
-        msg: "Hello From {{ GREET }}
+        msg: "Hello From {{GREET}}
